@@ -1,0 +1,78 @@
+Oct 01, 2020 5:29:27 PM com.develop.ShowDateAndTime.MyListner contextInitialized
+INFO: Starting the application
+Oct 01, 2020 5:51:42 PM com.develop.ShowDateAndTime.MyListner contextInitialized
+INFO: Starting the application
+Oct 01, 2020 5:52:38 PM com.develop.ShowDateAndTime.MyListner contextInitialized
+INFO: Starting the application
+Oct 01, 2020 5:52:48 PM com.develop.ShowDateAndTime.BusinessLayer.StockAccess dailyAccess
+INFO: Called AlphaVantage API
+Oct 01, 2020 5:53:09 PM com.develop.ShowDateAndTime.BusinessLayer.StockAccess dailyAccess
+INFO: From Database- daily
+Oct 01, 2020 6:10:59 PM com.develop.ShowDateAndTime.MyListner contextInitialized
+INFO: Starting the application
+Oct 01, 2020 6:19:40 PM com.develop.ShowDateAndTime.MyListner contextInitialized
+INFO: Starting the application
+Oct 01, 2020 6:20:03 PM com.develop.ShowDateAndTime.MyListner contextInitialized
+INFO: Starting the application
+Oct 01, 2020 6:20:10 PM com.develop.ShowDateAndTime.MyListner contextInitialized
+INFO: Starting the application
+Oct 01, 2020 6:20:18 PM com.develop.ShowDateAndTime.MyResource getStockDaily
+INFO: rock
+Oct 01, 2020 6:20:18 PM com.develop.ShowDateAndTime.MyResource getStockDaily
+INFO: asd1
+Oct 01, 2020 6:20:18 PM com.develop.ShowDateAndTime.BusinessLayer.StockAccess dailyAccess
+INFO: From Database- daily
+Oct 01, 2020 6:20:18 PM com.develop.ShowDateAndTime.MyResource getStockDaily
+INFO: Time required for daily api is 740
+Oct 19, 2020 5:02:53 PM com.develop.ShowDateAndTime.MyListner contextInitialized
+INFO: Starting the application
+Oct 19, 2020 5:04:10 PM com.develop.ShowDateAndTime.MyResource getStockDaily
+INFO: rock 4763f45b-c18d-4e06-b6cf-892ed4e63320
+Oct 19, 2020 5:04:10 PM com.develop.ShowDateAndTime.MyResource getStockDaily
+INFO: asd1
+Oct 19, 2020 5:04:11 PM com.develop.ShowDateAndTime.BusinessLayer.StockAccess dailyAccess
+INFO: Called AlphaVantage API
+Oct 19, 2020 5:04:11 PM com.develop.ShowDateAndTime.MyResource getStockDaily
+INFO: Time required for daily api is 1626
+Oct 19, 2020 5:14:46 PM com.develop.ShowDateAndTime.MyListner contextInitialized
+INFO: Starting the application
+Oct 19, 2020 5:14:53 PM com.develop.ShowDateAndTime.MyListner contextInitialized
+INFO: Starting the application
+Oct 19, 2020 5:15:07 PM com.develop.ShowDateAndTime.MyResource getStockDaily
+INFO: rock 335d1da4-473c-4166-aba1-a1128d9d0320
+Oct 19, 2020 5:15:07 PM com.develop.ShowDateAndTime.MyResource getStockDaily
+INFO: asd1 335d1da4-473c-4166-aba1-a1128d9d0320
+Oct 19, 2020 5:15:08 PM com.develop.ShowDateAndTime.BusinessLayer.StockAccess dailyAccess
+INFO: From Database- daily 335d1da4-473c-4166-aba1-a1128d9d0320
+Oct 19, 2020 5:15:08 PM com.develop.ShowDateAndTime.MyResource getStockDaily
+INFO: Time required for daily api is 688 335d1da4-473c-4166-aba1-a1128d9d0320
+Oct 19, 2020 5:18:33 PM com.develop.ShowDateAndTime.MyListner contextInitialized
+INFO: Starting the application
+Oct 19, 2020 5:18:48 PM com.develop.ShowDateAndTime.MyResource getStockIntraDaily
+INFO: rock b8611adf-b655-4c36-8690-6d615e0d962e
+Oct 19, 2020 5:18:48 PM com.develop.ShowDateAndTime.MyResource getStockIntraDaily
+INFO: asd1 b8611adf-b655-4c36-8690-6d615e0d962e
+Oct 19, 2020 5:18:49 PM com.develop.ShowDateAndTime.BusinessLayer.StockAccess intradailyAccess
+INFO: Called AlphaVantage API b8611adf-b655-4c36-8690-6d615e0d962e
+Oct 19, 2020 5:18:49 PM com.develop.ShowDateAndTime.MyResource getStockIntraDaily
+INFO: Time intradaily required 1507 b8611adf-b655-4c36-8690-6d615e0d962e
+Oct 19, 2020 5:22:14 PM com.develop.ShowDateAndTime.MyListner contextInitialized
+INFO: Starting the application
+Oct 19, 2020 5:22:20 PM com.develop.ShowDateAndTime.MyListner contextInitialized
+INFO: Starting the application
+Oct 19, 2020 5:22:27 PM com.develop.ShowDateAndTime.MyResource getStockIntraDaily
+INFO: rock 08f32c63-b13e-4820-b139-f66631fa8612
+Oct 19, 2020 5:22:27 PM com.develop.ShowDateAndTime.MyResource getStockIntraDaily
+INFO: asd1 08f32c63-b13e-4820-b139-f66631fa8612
+Oct 19, 2020 5:22:28 PM com.develop.ShowDateAndTime.BusinessLayer.StockAccess intradailyAccess
+INFO: Called AlphaVantage API 08f32c63-b13e-4820-b139-f66631fa8612
+Oct 19, 2020 5:22:28 PM com.develop.ShowDateAndTime.MyResource getStockIntraDaily
+INFO: Time intradaily required 1589 08f32c63-b13e-4820-b139-f66631fa8612
+Oct 19, 2020 5:22:40 PM com.develop.ShowDateAndTime.MyResource getStockDaily
+INFO: rock 94fbf288-491d-423a-8f5c-fc2dc2091821
+Oct 19, 2020 5:22:40 PM com.develop.ShowDateAndTime.MyResource getStockDaily
+INFO: asd1 94fbf288-491d-423a-8f5c-fc2dc2091821
+Oct 19, 2020 5:22:41 PM com.develop.ShowDateAndTime.BusinessLayer.StockAccess dailyAccess
+INFO: Called AlphaVantage API 94fbf288-491d-423a-8f5c-fc2dc2091821
+Oct 19, 2020 5:22:41 PM com.develop.ShowDateAndTime.MyResource getStockDaily
+INFO: Time required for daily api is 842 94fbf288-491d-423a-8f5c-fc2dc2091821
