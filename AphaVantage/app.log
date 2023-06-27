@@ -1,0 +1,16 @@
+Sep 09, 2020 6:47:15 PM com.stock.FindJson log
+INFO: Logged successfully
+Sep 09, 2020 6:49:48 PM com.stock.FindJson log
+INFO: no
+Sep 15, 2020 12:20:48 AM com.stock.FindJson log
+INFO: invalid
+Sep 15, 2020 12:28:14 AM com.stock.FindJson log
+INFO: hi
+Sep 17, 2020 2:08:56 PM com.stock.FindJson log
+INFO: invalid
+Sep 17, 2020 2:11:11 PM com.stock.MyListener contextInitialized
+INFO: Starting the application
+Sep 17, 2020 2:11:25 PM com.stock.FindJson log
+INFO: hi
+Oct 01, 2020 5:25:49 PM com.stock.MyListener contextInitialized
+INFO: Starting the application
